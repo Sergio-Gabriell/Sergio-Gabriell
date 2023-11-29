@@ -12,7 +12,7 @@ Me chamo **Sergio Gabriel de Souza**, tenho 23 anos. Sou  estudante de Engenhari
 - ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Contato
+## Contato ✉️
 
 <a href=mailto:sergiogabriel.souzaa@gmail.com><img align="left" alt="Gmail" height="30" src="https://user-images.githubusercontent.com/105741181/186945008-37f0971d-dac1-45b6-ad16-5566ad16bdad.png"  target="_blank" > 
 <a href="https://www.linkedin.com/in/sergio-gabriel-de-souza//"><img align="left" alt="Linkedin" height="30" src="https://user-images.githubusercontent.com/105741181/186735021-2a2cc3e4-8f94-44c2-9d72-a4206fd4538c.png" target="_blank" ></a>
