@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu Perfil do GitHub!
 
-Me chamo **Sergio Gabriel de Souza**, tenho 23 anos. Sou  estudante de Engenharia de Software e sou apaixonado por Tecnologia, Cibersegurança, Astronomia e esportes. 🛰️
+Me chamo **Sergio Gabriel de Souza**, tenho 23 anos, sou  estudante de Engenharia de Software com uma forte paixão por cybersegurança, Astronomia e esportes. 🛰️
 
 ## Tecnologias que utilizo no meu dia 🚀
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
