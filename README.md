@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu Perfil do GitHub!
 
-Me chamo **Sergio Gabriel**, tenho 23 anos, Estudante de Engenharia de Software apaixonado por Cybersegurança e Privacidade, busco ativamente participar de projetos Open Source e Software Livre, assim como integrar-me a comunidades descentralizadas. 🛰️
+Me chamo **Sergio Gabriel**, tenho 23 anos sou estudante de Engenharia de Software apaixonado por Cybersegurança e Privacidade, busco ativamente participar de projetos Open Source e Software Livre, assim como integrar-me a comunidades descentralizadas. 🛰️
 
 ## Tecnologias que utilizo no meu dia 🚀
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
