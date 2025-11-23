@@ -1,7 +1,7 @@
 # 👋 Bem-vindo ao meu GitHub!
 
 Sou **Gabriel**, estudante de Ciência da Computação, apaixonado por Cybersegurança, Privacidade, IA e Automação.
-Tenho dedicado meu tempo a estudar Python, APIs, LLMs e ferramentas de software livre, sempre buscando aprender na prática, colaborar com projetos Open Source e explorar soluções tecnológicas que gerem impacto real.
+Estudo Python, APIs e LLMs, explorando tecnologias na prática. possuo grande interesse no ecossistema de software livre e acompanho projetos focados em privacidade e segurança, que influenciam meu desenvolvimento pessoal e técnico.
 
 ## 🚀 Tecnologias & Ferramentas
 
