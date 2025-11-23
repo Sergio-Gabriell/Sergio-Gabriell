@@ -26,4 +26,4 @@ Design & UI
 
 <br/></br>
 ## Estatísticas do Perfil 📊 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Gabriell&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Gabriell&layout=compact))
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Gabriell&layout=compact))
