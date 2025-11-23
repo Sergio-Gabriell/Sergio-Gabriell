@@ -17,7 +17,7 @@ Back-end
 - ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 Design & UI
-'- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📬 Contato
