@@ -23,7 +23,3 @@ Design & UI
 
 ## 📬 Contato
 <a href=mailto:sergiogabriel.souzaa@gmail.com> <img alt="Gmail" height="28" src="https://user-images.githubusercontent.com/105741181/186945008-37f0971d-dac1-45b6-ad16-5566ad16bdad.png"> </a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sergio-gabriel-de-souza/"> <img alt="LinkedIn" height="28" src="https://user-images.githubusercontent.com/105741181/186735021-2a2cc3e4-8f94-44c2-9d72-a4206fd4538c.png"> </a>
-
-<br/></br>
-## Estatísticas do Perfil 📊 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Gabriell&layout=compact))
